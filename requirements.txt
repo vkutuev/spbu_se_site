@@ -47,7 +47,7 @@ six==1.16.0
 soupsieve==2.3.2.post1
 SQLAlchemy==2.0.15
 tzdata==2022.1
-tzlocal==4.2
+tzlocal==5.0.1
 urllib3==1.26.9
 Werkzeug==2.3.4
 WTForms==3.0.1
