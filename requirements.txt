@@ -71,4 +71,4 @@ webencodings==0.5.1
 Werkzeug==2.3.4
 Whoosh==2.7.4
 WTForms==3.0.1
-zipp==3.7.0
+zipp==3.16.0
